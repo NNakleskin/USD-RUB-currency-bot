@@ -285,4 +285,4 @@ $RECYCLE.BIN/
 
 .env
 DB_Key.json
-pyproject.toml
+poetry.lock
