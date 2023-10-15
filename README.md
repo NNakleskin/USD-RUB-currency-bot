@@ -33,7 +33,6 @@ This Telegram bot provides users with the current exchange rate of the US Dollar
 
    ````shell
    poetry install
-   ```
 
    ````
 4. Create a new file named `.env` in the project directory and add the following variables:
